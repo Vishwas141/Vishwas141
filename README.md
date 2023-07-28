@@ -1,6 +1,6 @@
 <!-- Replace the header image with your preferred header image -->
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1580927752452-89d86da3fa0a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8Y29kaW5nfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60" width="800" alt="Header Image">
+  <img src="https://images.unsplash.com/photo-1580927752452-89d86da3fa0a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8Y29kaW5nfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60" width="800" height="400" object-fit="contain" alt="Header Image">
 </p>
 
 <h1 align="center">Hi 👋, I'm Vishwas Nalawade</h1>
@@ -60,7 +60,7 @@
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+  <a href="https://www.cprogramming.com/" target="_blank" >
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" />
   </a>
   <!-- Add more icons here for other languages and tools -->
