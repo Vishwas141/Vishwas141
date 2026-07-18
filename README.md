@@ -365,7 +365,7 @@ With a **9.42 CGPA** academic background and hands-on experience across enterpri
 
 <div align="center">
 
-### 📚 **Featured GitHub Projects**
+### 📚 **GitHub Projects**
 
 </div>
 
@@ -379,14 +379,14 @@ With a **9.42 CGPA** academic background and hands-on experience across enterpri
   - Real-time log streaming and filtering
 - **Impact:** Reduced debugging time, improved observability
 
-#### 🎯 **Other Projects**
+#### 🎯 **Other Key Projects**
 
 - **[K8s Deployment](https://github.com/Vishwas141/K8s-deployment)** - Production Kubernetes strategies
 - **[K8s Scaling](https://github.com/Vishwas141/K8s_Scaling_Project)** - Auto-scaling & resource optimization
 - **[K8s Monitoring](https://github.com/Vishwas141/k8s_resource_monitoring)** - Cluster monitoring & alerting
-- **[Docker Networking](https://github.com/Vishwas141/docker-networking-containerization)** - Container orchestration
-- **[AI Engineering Hub](https://github.com/Vishwas141/ai-engineering-hub)** - AI/ML best practices
-- **[Awesome LLD](https://github.com/Vishwas141/awesome-low-level-design)** - System design resources
+- **[K8s Matrix Multiplication](https://github.com/Vishwas141/k8s_matrix_multiplication-project)** - Distributed computing on Kubernetes
+- **[Docker Networking](https://github.com/Vishwas141/docker-networking-containerization)** - Container orchestration & networking
+- **[StreamX](https://github.com/Vishwas141/streamx)** - High-performance streaming platform
 
 ---
 
